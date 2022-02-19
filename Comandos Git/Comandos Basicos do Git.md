@@ -3,7 +3,7 @@
 ## Situação
 
 * Modificado (modified);
-* Preparado (staged/index)
+* Preparado (staging/index)
 * Consolidado (comitted);
 
 ##### Geral
